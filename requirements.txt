@@ -5,3 +5,4 @@ frozen-flask
 flask-jsglue
 flask-flatpages
 numpy
+gunicorn
